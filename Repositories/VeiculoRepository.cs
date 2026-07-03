@@ -2,7 +2,8 @@ using CadastroVeiculos.Data;
 using CadastroVeiculos.Models;
 using CadastroVeiculos.Repositories.Interface;
 using Microsoft.EntityFrameworkCore;
-
+//implementa a interface IVeiculoRepository, fornecendo a implementação concreta dos métodos definidos na interface
+//cumpre a promessa de que a classe terá que implementar os métodos que foram definidos na interface
 namespace CadastroVeiculos.Repositories; 
 
 public class VeiculoRepository : IVeiculoRepository
