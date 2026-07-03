@@ -10,5 +10,8 @@ namespace CadastroVeiculos.Data
             
         }
         public DbSet<Veiculo> Veiculos { get; set; }
+
+        public DbSet<Cliente> Clientes {get; set;}
+
     }
 }
