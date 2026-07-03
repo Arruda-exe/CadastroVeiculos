@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj": {}
+    "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj": {
+    "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj",
+        "projectUniqueName": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj",
         "projectName": "CadastroVeiculos",
-        "projectPath": "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj",
-        "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kauan\\CadastroVeiculos\\obj\\",
+        "projectPath": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj",
+        "packagesPath": "C:\\Users\\kauan.verlinck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kauan.verlinck\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -48,6 +48,12 @@
               "version": "[8.0.28, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
             },
