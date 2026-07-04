@@ -2581,19 +2581,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kauan.verlinck\\.nuget\\packages\\": {}
+    "C:\\Users\\Kauan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj",
+      "projectUniqueName": "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj",
       "projectName": "CadastroVeiculos",
-      "projectPath": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\CadastroVeiculos.csproj",
-      "packagesPath": "C:\\Users\\kauan.verlinck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kauan.verlinck\\CadastroVeiculos\\obj\\",
+      "projectPath": "C:\\Users\\Kauan\\CadastroVeiculos\\CadastroVeiculos.csproj",
+      "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kauan\\CadastroVeiculos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kauan.verlinck\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kauan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
